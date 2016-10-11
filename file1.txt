@@ -1,3 +1,4 @@
 line1:rice
 line1:rice2
 line3:rice3
+line3
